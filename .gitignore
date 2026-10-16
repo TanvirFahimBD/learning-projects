@@ -1,0 +1,8 @@
+
+# All environment files at any depth
+.env
+.env.*
+
+# Optional: allow example templates to be committed
+!.env.example
+!.env.*.example
